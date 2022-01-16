@@ -30,7 +30,7 @@ To build a CMS-style blog site similar to a wordpress site, where developers can
 
 ## Links
 
-Here is a link to the deployed Heroku app: [Tech Blog App]()
+Here is a link to the deployed Heroku app: [Tech Blog App](https://tech-blog-app321.herokuapp.com/)
 
 Here is a link to the application repository: [Tech Blog GitHub Repo](https://github.com/justinkemp10/tech-blog-application)
 
